@@ -1,0 +1,5 @@
+Before sorting:
+Number of page frames: 10; Hit: 10; Miss: 990
+
+After sorting:
+Number of page frames: 10; Hit: 375; Miss: 625
